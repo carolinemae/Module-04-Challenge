@@ -383,20 +383,6 @@ function tryAgain() {
 
 startBtn.addEventListener("click", function() {
     startBtn.style.display = "none";
-    // showScore.style.display = "none";
     title.textContent = "";
-    // countdown();
     runQuestions();
 });
-
-/*
-for (var i = 0; i <questions.length; i++) {
-
-}
-
-*/
-
-// (root is a div class)
-// var rootEl = document.getElementById("root");
-// rootEl.appendChild(titleEl);
-// titleEl.append("Welcome to jQuery");

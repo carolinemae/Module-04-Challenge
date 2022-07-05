@@ -9,10 +9,6 @@ body {
     align-items: center;
 }
 
-ul {
-    /* margin-left: 20px; */
-}
-
 ul li {
     list-style: none;
     padding: 5px;
@@ -32,10 +28,6 @@ button:hover {
 header {
     /* display: block; */
     min-height: 25px;
-}
-
-#tryAgain {
-    /* margin-top: 20px; */
 }
 
 form {
